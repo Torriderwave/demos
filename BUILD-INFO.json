@@ -3,5 +3,10 @@
     "repo": "AlyronIO/POS-System",
     "sha": "35e73e3da6d6df7dc7ff7729a63192f04ec287c3",
     "builtAt": "2026-11-20T21:04:33.737790-06:00"
+  },
+  "havren": {
+    "repo": "AlyronIO/Colegio-Sistema",
+    "sha": "0387fd0ce3d70964c28b5d18b9777ca46dbec9c0",
+    "builtAt": "2026-11-20T21:04:33.909461-06:00"
   }
 }
